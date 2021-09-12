@@ -73,13 +73,13 @@ const applyAltSchedMsg = createL10nApplier(localize('alt-msg'), {
 })
 
 const wattMessages = [
-  I-was-reminiscing,
-  just-the-other,
-  day-was-having,
-  coffee-all-alone,
-  and-lord-it,
-  took-me-away,
-  back-to-a
+  "I-was-reminiscing",
+  "just-the-other",
+  "day-was-having",
+  "coffee-all-alone",
+  "and-lord-it",
+  "took-me-away",
+  "back-to-a"
 ]
 
 const colourtoy = document.createElement('div')
