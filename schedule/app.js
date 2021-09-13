@@ -73,13 +73,13 @@ const applyAltSchedMsg = createL10nApplier(localize('alt-msg'), {
 })
 
 const wattMessages = [
-  "I-was-reminiscing",
-  "just-the-other",
-  "day-was-having",
-  "coffee-all-alone",
-  "and-lord-it",
-  "took-me-away",
-  "back-to-a"
+  "Or don't. The choice is yours.",
+  "(If you want a scheduling app that actually works, but what fun is that?)",
+  "gunn.one is pretty epic too.",
+  "Unless you'd rather support pirating.",
+  "Then maybe as a school, we can send more than just 1 person to MIT.",
+  "Or tomorrow, or never, we're all gonna die anyway.",
+  "Enough said."
 ]
 
 const colourtoy = document.createElement('div')
@@ -697,7 +697,7 @@ export function scheduleApp (options = {}) {
               {
                 type: 'ext-link.material.raised.watt-link',
                 properties: {
-                  href: 'https://gunnwatt.web.app/'
+                  href: 'https://www.gunn.one/'
                 },
                 options: { ripple: true }
               },
@@ -716,7 +716,7 @@ export function scheduleApp (options = {}) {
               {
                 type: 'ext-link.material.raised.watt-link',
                 properties: {
-                  href: 'https://gunnwatt.web.app/'
+                  href: 'https://www.gunn.one/'
                 },
                 options: { ripple: true }
               },

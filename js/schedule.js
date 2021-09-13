@@ -1277,7 +1277,7 @@ const normalschedule = [
     { name: 'Brunch', start: makeHMTM(10, 35), end: makeHMTM(10, 40) },
     { name: 'B', start: makeHMTM(10, 50), end: makeHMTM(12, 20) },
     { name: 'Lunch', start: makeHMTM(12, 20), end: makeHMTM(12, 50) },
-    { name: 'C', start: makeHMTM(15, 0), end: makeHMTM(14, 30) },
+    { name: 'C', start: makeHMTM(13, 0), end: makeHMTM(14, 30) },
     { name: 'D', start: makeHMTM(14, 40), end: makeHMTM(16, 10) },
     { name: 'H', start: makeHMTM(16, 20), end: makeHMTM(17, 55) }
   ],
@@ -1287,7 +1287,7 @@ const normalschedule = [
     { name: 'Brunch', start: makeHMTM(10, 35), end: makeHMTM(10, 40) },
     { name: 'F', start: makeHMTM(10, 50), end: makeHMTM(12, 20) },
     { name: 'Lunch', start: makeHMTM(12, 20), end: makeHMTM(12, 50) },
-    { name: 'G', start: makeHMTM(15, 0), end: makeHMTM(14, 30) },
+    { name: 'G', start: makeHMTM(13, 0), end: makeHMTM(14, 30) },
     { name: 'Flex', start: makeHMTM(14, 40), end: makeHMTM(15, 30) }
   ],
   [
@@ -1296,7 +1296,7 @@ const normalschedule = [
     { name: 'Brunch', start: makeHMTM(10, 35), end: makeHMTM(10, 40) },
     { name: 'B', start: makeHMTM(10, 50), end: makeHMTM(12, 20) },
     { name: 'Lunch', start: makeHMTM(12, 20), end: makeHMTM(12, 50) },
-    { name: 'C', start: makeHMTM(15, 0), end: makeHMTM(14, 30) },
+    { name: 'C', start: makeHMTM(13, 0), end: makeHMTM(14, 30) },
     { name: 'D', start: makeHMTM(14, 40), end: makeHMTM(16, 10) },
     { name: 'H', start: makeHMTM(16, 20), end: makeHMTM(17, 55) }
   ],
